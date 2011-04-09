@@ -1,0 +1,1 @@
+default[:caffeine][:source] = "http://files.lightheadsw.com/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip"
